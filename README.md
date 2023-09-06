@@ -1,4 +1,28 @@
-## Olá! Eu sou o Davi Morais 🖐️
+
+Hello, my name is Davi Morais and I am a formated in Information System in Estácio University in Fortaleza/Ce, from Brazil. I am a full-stack software developer, my technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, HTML/CSS/Bootstrap/Angular/React, Git, Docker.
+
+- 🔭 I am currently researching and expanding my knowledge in web applications, from the beginning to the deployer
+- 💬 Brainstorm with me over tech, algorithms, career, and mentoring
+- 📫 How to reach me: davimorais50@gmail.com
+
+**Languages and Tools:** 
+
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![DOCKER](https://img.shields.io/badge/-Docker-black%3Flogo%3Ddocker%26style%3Dsocial)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-black%3Flogo%3Daws%26style%3Dsocial)&nbsp;&nbsp;
+
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=daviamorais&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviamorais&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daviamorais.daviamorais)
 
 <div align="center">
   <div align=center>
@@ -14,20 +38,8 @@
 
   </div>
 
-  
-## Tecnologias de estudo diária
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">  
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  
-   ##
- 
+ **Contacts** 
+
 <div> 
   <a href = "mailto:davi_negocios@hotmail.com"><img align="right" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-morais" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
