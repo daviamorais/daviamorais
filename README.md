@@ -9,7 +9,11 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=daviamorais&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+
+  </div>
+
   
 ## Tecnologias de estudo diária
   
