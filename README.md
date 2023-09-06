@@ -16,8 +16,8 @@ Hello, my name is Davi Morais and I am a formated in Information System in Está
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/docker-black?logo=docker&style=social)&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-black%3Flogo%3Daws%26style%3Dsocial)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/-Aws-black?logo=aws&style=social)&nbsp;&nbsp;
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daviamorais.daviamorais)
 
