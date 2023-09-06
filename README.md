@@ -1,10 +1,22 @@
 ## Olá! Eu sou o Davi Morais 🖐️
 
 <div align="center">
-  <a href="https://github.com/daviamorais">
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=daviamorais&theme=react&border=61dafb&hide_border=true" alt="daviamorais" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=daviamorais&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+   <a href="https://github.com/daviamorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviamorais&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviamorais&layout=compact&langs_count=7&theme=merko"/>
-</div>
+    </a>
+  </div>
+
   
 ## Tecnologias de estudo diária
   
