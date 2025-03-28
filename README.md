@@ -1,5 +1,5 @@
 
-Hello, my name is Davi Morais and I am a formated in Information System in Estácio University in Fortaleza/Ce, from Brazil. I am a full-stack software developer, my technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, HTML/CSS/Bootstrap/Angular/React, Git, Docker.
+Hello, my name is Davi Morais and i".am a student. I am a full-stack software developer, my technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, HTML/CSS/Bootstrap/Angular, Git, Docker.
 
 - 🔭 I am currently researching and expanding my knowledge in web applications, from the beginning to the deployer
 - 💬 Brainstorm with me over tech, algorithms, career, and mentoring
